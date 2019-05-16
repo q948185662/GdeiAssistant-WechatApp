@@ -27,6 +27,12 @@
 
 ## 体验
 
+### 体验用户账号
+
+为便于非在校师生用户体验和测试应用，应用提供了体验用户账号。详情请查阅 [广东二师助手体验用户账号说明](https://github.com/PeachShrubFizz/GdeiAssistant#%E4%BD%93%E9%AA%8C)
+
+### 体验二维码
+
 <p align="center">
   <img width="300" src="./github/qrcode.jpg">
 </p>
