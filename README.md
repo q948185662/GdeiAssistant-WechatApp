@@ -53,9 +53,11 @@ $ git clone https://github.com/SweetRadish/GdeiAssistant-WechatApp.git
 
 2. **小程序版本号**：小程序目前暂未提供获取当前版本号的API，因此在发布新的小程序版本时，需要一并修改文件中的versionCode参数值。
 
-## 相关
+## 数据接口
 
 广东二师助手微信小程序的后端API数据接口由[广东第二师范学院校园助手系统](https://github.com/SweetRadish/GdeiAssistant)提供
+
+数据接口API文档说明请查阅[广东第二师范学院校园助手系统数据接口API文档](https://github.com/PeachShrubFizz/GdeiAssistant/wiki)
 
 ## 协议
 
